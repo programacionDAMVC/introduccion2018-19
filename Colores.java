@@ -1,3 +1,5 @@
+//Solo funciona para Ubuntu
+//NO FUNCIONA EN SISTEMAS WINDOWS
 public class Colores {
   public static void main(String[] args) {
    String rojo = "\033[31m";
